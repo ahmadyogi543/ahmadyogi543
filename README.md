@@ -1,6 +1,4 @@
-<h1>Assalamualaikum</h1>
-
-<h2>Welcome to My Repository</h2>
+<h1 align="center">Halo 👋, saya Ahmad Yogi</h1>
 
 <h3 align="center">Seorang Front-end Developer asal Indonesia</h3>
 
