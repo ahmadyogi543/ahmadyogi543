@@ -1,4 +1,4 @@
-<h1>Halo Developers 👋, Selamat Datang</h1>
+<h1>Halo, Selamat Datang Developers 👋</h1>
 
 <h2>Ahmad Yogi</h2>
 
