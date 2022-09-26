@@ -1,6 +1,6 @@
 <h1>Halo, Selamat Datang Developers 👋</h1>
 
-<h2>Ahmad Yogi, seorang front-end web dan mobile developer asal Indonesia 🇮🇩</h2>
+<h2>Ahmad Yogi, seorang Front-end web dan mobile developer asal Indonesia 🇮🇩</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadyogi543&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadyogi543" /> </p>
 
