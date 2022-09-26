@@ -1,6 +1,8 @@
-<h1 align="center">Halo 👋, saya Ahmad Yogi</h1>
+<h1>Halo Developers 👋, Selamat Datang</h1>
 
-<h3 align="center">Seorang Front-end Developer asal Indonesia</h3>
+<h2>Ahmad Yogi</h2>
+
+<h4 style="font-weight: normal">Seorang Developer Front-end Web dan Mobile asal Indonesia</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadyogi543&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadyogi543" /> </p>
 
