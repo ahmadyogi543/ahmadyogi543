@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadyogi543&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadyogi543" /> </p>
 
-- 📚 I’m currently learning **React Native and NodeJS**
+- 📚 I’m currently learning **React, React Native, NodeJS and Go**
 
 - 📫 How to reach me **ahmadyogi543@gmail.com**
 
