@@ -16,14 +16,6 @@ reach me **ahmadyogi543@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://instagram.com/ahmadyogi1" target="blank"
     ><img
       align="center"
@@ -36,6 +28,14 @@ reach me **ahmadyogi543@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="go"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
